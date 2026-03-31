@@ -160,6 +160,3 @@ Segments include:
 To build a **scalable, insight-driven BI solution** that transforms raw transactional data into meaningful business intelligence for decision-making.
 
 ---
-
-
-Give it a ⭐ on GitHub and feel free to fork or contribute!
